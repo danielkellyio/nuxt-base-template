@@ -4,7 +4,7 @@
   >
     <div>
       <h1 class="text-3xl">Hello Nuxt Base</h1>
-      <ul>
+      <ul class="list-disc list-inside pl-5">
         <li>Nuxt 3</li>
         <li>VueUse</li>
         <li>Tailwind CSS</li>
